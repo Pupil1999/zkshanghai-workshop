@@ -1,5 +1,8 @@
-# 第6课 课后作业
+# Lecture 6 Arithmetization
 
-## 第1题 xxxxxx
+## 3-Columns table for Fibonacci
+  $1: 1,1,2$ \
+  $2: 3,5,8$ \
+  $3: 13,21,34$ 
 
-xxxxxx
+## RAP constraint
